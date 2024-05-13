@@ -5,15 +5,15 @@
     --verde:#6fff57;
 }
 body{
-    background-color: var(--cor-de-fundo);
-    color: var(--branco);
-    text-align: center;
-    font-family: 'Chakra Petch';
+    background-color:var(--cor-de-fundo);
+    color:var(--branco);
+    text-align:center;
+    font-family:'Chakra Petch';
 }
 h1 span{
-    color: var(--verde);
+    color:var(--verde);
 }
 #dias_restantes{
-    color: var(--verde);
-    font-size: 50px;
+    color:var(--verde);
+    font-size:50px;
 }
